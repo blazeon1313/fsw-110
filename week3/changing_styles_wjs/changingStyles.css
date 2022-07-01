@@ -1,0 +1,13 @@
+
+h2{
+    Font-size: 20px;
+    Font-weight: lighter;
+    Font-family: sans-serif;
+    Color: cornflowerblue;
+}
+
+.border{
+    border-style: solid;
+    padding: 5px;
+    margin: 5px;
+}
