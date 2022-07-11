@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+    <link rel="stylesheet" href= "calculator.css">
+   </head>
+   <body>
+        <script src="calculator.js"></script>
+        <div id='title'>My Calculator</div>
+        <table>
+            <tr>
+                <td colspan="3"><input type="text" id="result"/></td>
+                <td><input type="button" value="c" onclick="clr()" id="clr"/> </td>
+            </tr>
+            <tr>
+                <td><input type="button" value="7" onclick="dis('7')" id="seven"/> </td>
+                <td><input type="button" value="8" onclick="dis('8')" id="eight"/> </td>
+                <td><input type="button" value="9" onclick="dis('9')" id="nine"/> </td>
+                <td><input type="button" value="/" onclick="dis('/')" id="divide"/> </td>
+            </tr>
+            <tr>
+                <td><input type="button" value="4" onclick="dis('4')" id="four"/> </td>
+                <td><input type="button" value="5" onclick="dis('5')" id="five"/> </td>
+                <td><input type="button" value="6" onclick="dis('6')" id="six"/> </td>
+                <td><input type="button" value="*" onclick="dis('*')" id="multiply"/> </td>
+            </tr>
+            <tr>
+                <td><input type="button" value="1" onclick="dis('1')" id="one"/> </td>
+                <td><input type="button" value="2" onclick="dis('2')" id="two"/> </td>
+                <td><input type="button" value="3" onclick="dis('3')" id="three"/> </td>
+                <td><input type="button" value="-" onclick="dis('-')" id="minus"/> </td>
+            </tr>
+            <tr>
+                <td><input type="button" value="." onclick="dis('.')" id="dot"/> </td>
+                <td><input type="button" value="0" onclick="dis('0')" id="zero"/> </td>
+                <td><input type="button" value="=" onclick="solve()" id="solve"/> </td>
+                <td><input type="button" value="+" onclick="dis('+')" id="add"/> </td>
+            </tr>
+        </table>
+   </body>
+</html>  

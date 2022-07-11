@@ -1,0 +1,180 @@
+#title{
+    background-color: aqua;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 225px;
+    color: blue;
+    border-style: solid; 
+    border-color: black; 
+    border-width: 2px;
+    }
+  
+input[type="text"]{
+    background-color: white;
+    border-style: solid; 
+    border-color: black; 
+    border-width: 2px;
+    width:100%;
+    }
+
+table{
+    height: 200px;
+    width: 225px;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+#one{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#two{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#three{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#four{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#five{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#six{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#seven{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#eight{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#nine{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#zero{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#dot{
+    background-color: blue;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#solve{
+    background-color: orange;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#add{
+    background-color: grey;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#minus{
+    background-color: grey;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#multiply{
+    background-color: grey;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#divide{
+    background-color: grey;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
+
+#clr{
+    background-color: red;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width:100%;
+}
